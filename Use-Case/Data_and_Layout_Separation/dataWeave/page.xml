@@ -1,0 +1,12 @@
+<page>
+  <layout>
+    <template name="master"/>
+    <output type="table"/>
+  </layout>
+  <content>
+    <header>This is the header</header>
+    <left_navigation>This is the left navigation</left_navigation>
+    <content>This is the main content area</content>
+    <footer>This is the footer</footer>
+  </content>
+</page>

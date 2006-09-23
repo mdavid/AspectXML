@@ -1,0 +1,22 @@
+<templates>
+  <template name="master">
+    <layout>
+      <object>
+        <row>
+          <column>
+            <row source="header"/>
+            <row>
+              <column x="175px" y="auto">
+                <data source="left_navigation"/>
+              </column>
+              <column x="600px" y="auto">
+                <data source="content"/>
+              </column>
+            </row>
+            <row source="footer"/>
+          </column>
+        </row>
+      </object>
+    </layout>
+  </template>
+</templates>

@@ -1,0 +1,51 @@
+<output>
+  <definition type="table">
+    <element name="object">
+      <translation value="table"/>
+      <attributes>
+        <attribute name="x" value="width"/>
+        <attribute name="y" value="height"/>
+      </attributes>
+    </element>
+    <element name="column">
+      <translation value="td"/>
+      <attributes>
+        <attribute name="x" value="width"/>
+        <attribute name="y" value="height"/>
+      </attributes>
+    </element>
+    <element name="row">
+      <translation value="tr"/>
+      <attributes>
+        <attribute name="x" value="width"/>
+        <attribute name="y" value="height"/>
+      </attributes>
+    </element>
+    <element name="data">
+      <translation value="p"/>
+    </element>
+  </definition>
+  <definition type="div">
+    <element name="object">
+      <translation value="div"/>
+      <attributes>
+        <attribute name="x" value="width"/>
+        <attribute name="y" value="height"/>
+      </attributes>
+    </element>
+    <element name="column">
+      <translation value="div"/>
+      <attributes>
+        <attribute name="x" value="width"/>
+        <attribute name="y" value="height"/>
+      </attributes>
+    </element>
+    <element name="row">
+      <translation value="div"/>
+      <attributes>
+        <attribute name="x" value="width"/>
+        <attribute name="y" value="height"/>
+      </attributes>
+    </element>
+  </definition>
+</output>

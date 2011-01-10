@@ -1,0 +1,12 @@
+An Aspect-Oriented XML Weaving Engine (AXLE)
+
+To learn more about the engine and the intricacies of its usage, please see the following overview and tutorials published to XML.com in August and September of 2005.
+
+=Original Idea=
+http://www.oreillynet.com/xml/blog/2005/08/assets_atom_feeds_and_aspectxm.html
+
+=Code Overview :: High Level=
+http://www.oreillynet.com/xml/blog/2005/09/part_3_assets_atom_feeds_and_a.html
+
+=Code Overview :: Low Level=
+http://www.oreillynet.com/xml/blog/2005/08/part_2_assets_atom_feeds_and_a.html
